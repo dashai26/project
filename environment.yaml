@@ -1,0 +1,10 @@
+name: project-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - python>=3.10
+  - scikit-learn=1.2.1
+  - jupyterlab
+prefix: C:\Users\dasha\miniconda3\envs\project-env
